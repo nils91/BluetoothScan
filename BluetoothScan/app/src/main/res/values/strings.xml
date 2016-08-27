@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BluetoothScan</string>
+    <string name="btNotSupported">Bluetooth is not supported</string>
+    <string name="btNoScanPermission">The app has no permission to access the devices coarse location. This permission is required to scan for nearby bluetooth devices.</string>
+    <string name="btScanPermissionExplanation">This app needs permission to access the devices coarse location in order to scan for nearby bluetooth devices.</string>
+    <string name="permissionRequestDialogTitle">Permission required</string>
+    <string name="ok">OK</string>
 </resources>
